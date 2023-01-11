@@ -1,0 +1,3 @@
+C:/Users/Yusuf Tekin/CLionProjects/i-learn-c/cmake-build-debug/CMakeFiles/i_learn_c.dir
+C:/Users/Yusuf Tekin/CLionProjects/i-learn-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yusuf Tekin/CLionProjects/i-learn-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
